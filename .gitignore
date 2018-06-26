@@ -1,0 +1,12 @@
+
+.metadata
+.recommenders
+target
+.settings
+RemoteSystemsTempFiles
+*.log
+.classpath
+.cproject
+.project
+*.exe
+*.class
